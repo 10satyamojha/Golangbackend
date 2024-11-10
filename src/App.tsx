@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import  { useState } from 'react';
 import { AuthLayout } from './pages/AuthLayout';
 import { SignInForm } from './pages/SignIn';
 import { SignUpForm } from './pages/SignUp';
